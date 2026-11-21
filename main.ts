@@ -13,7 +13,7 @@ const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 const POEM = [
   'Spare Key',
   '',
-  'For thirty years my neighbour',
+  'Thirty years my neighbour',
   'kept my key on a nail by her door',
   'and never once used it.',
   '',
@@ -23,7 +23,7 @@ const POEM = [
   'I woke in the ambulance,',
   'her coat across my legs.',
   '',
-  'That was the whole arrangement:',
+  'That was the arrangement:',
   'I gave her the power,',
   "she waited until I couldn't ask.",
 ].join('\n') + '\n';

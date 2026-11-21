@@ -17,7 +17,7 @@ const POEM = [
   "She didn't move.",
   'I said it again, harder,',
   'the harness tight in my fist.',
-  'She leaned her weight into my knees.',
+  'She leaned her weight against my knees.',
   'A truck I never heard',
   "took the corner where I'd have stood.",
   '',

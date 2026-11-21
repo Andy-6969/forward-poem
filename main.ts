@@ -15,15 +15,16 @@ const POEM = [
   '',
   'At the curb I said forward.',
   "She didn't move.",
-  'I said it again, harder,',
-  'the harness tight in my fist.',
-  'She leaned her weight against my knees.',
+  'I said it again, harder.',
+  'She leaned against my knees.',
   'A truck I never heard',
   "took the corner where I'd have been.",
   '',
+  'Two years they taught her to obey me.',
+  'One month, to know when not to.',
+  '',
   'I asked for eyes.',
-  'They gave me someone',
-  'who could tell me no.',
+  'I was given a no.',
 ].join('\n') + '\n';
 
 const length = [...POEM].length;

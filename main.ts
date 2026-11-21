@@ -20,11 +20,12 @@ const POEM = [
   'A truck I never heard',
   "took the corner where I'd have been.",
   '',
-  'Two years they taught her to obey me.',
-  'One month, to know when not to.',
-  '',
   'I asked for eyes.',
-  'I was given a no.',
+  'They gave me someone',
+  'who could tell me no.',
+  '',
+  'Now I write rules for agents.',
+  'I start with her.',
 ].join('\n') + '\n';
 
 const length = [...POEM].length;

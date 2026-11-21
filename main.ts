@@ -11,21 +11,21 @@ import { join } from 'node:path';
 const OUTPUT_DIR = process.env.MAKEFUN_OUTPUT_DIR ?? '/output';
 
 const POEM = [
-  'Forward',
+  'Spare Key',
   '',
-  'At the curb I said forward.',
-  "She didn't move.",
-  'I said it again, harder.',
-  'She leaned against my knees.',
-  'A truck I never heard',
-  "took the corner where I'd have been.",
+  'For thirty years my neighbour',
+  'kept my key on a nail by her door',
+  'and never once used it.',
   '',
-  'I asked for eyes.',
-  'They gave me someone',
-  'who could tell me no.',
+  "Tuesday I didn't answer.",
+  'She did.',
   '',
-  'Now I write rules for agents.',
-  'I start with her.',
+  'I woke in the ambulance,',
+  'her coat across my legs.',
+  '',
+  'That was the whole arrangement:',
+  'I gave her the power,',
+  "she waited until I couldn't ask.",
 ].join('\n') + '\n';
 
 const length = [...POEM].length;

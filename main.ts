@@ -19,7 +19,7 @@ const POEM = [
   'the harness tight in my fist.',
   'She leaned her weight against my knees.',
   'A truck I never heard',
-  "took the corner where I'd have stood.",
+  "took the corner where I'd have been.",
   '',
   'I asked for eyes.',
   'They gave me someone',
